@@ -50,6 +50,6 @@ qtcreator-*
 # Catkin custom files
 CATKIN_IGNORE
 
-cache/humble/build/**
-cache/humble/install/**
-cache/humble/log/**
+cache/humble/build/
+cache/humble/install/
+cache/humble/log/
