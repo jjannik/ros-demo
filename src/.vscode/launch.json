@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ROS: Launch",
+            "type": "ros",
+            "request": "launch",
+            "target": "/home/ws/src/cpp_pubsub/launch/talker.launch.py",
+            "launch": ["rviz", "gz"],
+        },
+    ]
+
+}
